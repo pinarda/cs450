@@ -1,0 +1,6 @@
+obj frog.obj
+eye 0.0 1.0 1.0
+at 0.0 0.0 0.0
+up 0.0 1.0 0.0
+proj Perspective
+params 90.0 1.0 0.1 15.0
